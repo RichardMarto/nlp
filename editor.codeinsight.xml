@@ -1,0 +1,5 @@
+<application>
+  <component name="CodeInsightSettings">
+    <EXCLUDED_PACKAGE NAME="org.springframework.data.geo.Distance" />
+  </component>
+</application>
