@@ -1,10 +1,11 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping pattern=".part-00000-2e64b0ed-a61d-4346-a418-c039e64fa6c6-c000.snappy.parquet.crc" type="PLAIN_TEXT" />
+      <mapping ext="klib" type="ARCHIVE" />
+      <mapping pattern=".part-00002-2e64b0ed-a61d-4346-a418-c039e64fa6c6-c000.snappy.parquet.crc" type="PLAIN_TEXT" />
       <mapping pattern=".part-00000-4c6bc47c-5c62-44b4-bc02-45aa2d65fe0d-c000.snappy.parquet.crc" type="PLAIN_TEXT" />
       <mapping pattern=".part-00003-2e64b0ed-a61d-4346-a418-c039e64fa6c6-c000.snappy.parquet.crc" type="PLAIN_TEXT" />
-      <mapping pattern=".part-00002-2e64b0ed-a61d-4346-a418-c039e64fa6c6-c000.snappy.parquet.crc" type="PLAIN_TEXT" />
+      <mapping pattern=".part-00000-2e64b0ed-a61d-4346-a418-c039e64fa6c6-c000.snappy.parquet.crc" type="PLAIN_TEXT" />
       <mapping pattern=".part-00001-2e64b0ed-a61d-4346-a418-c039e64fa6c6-c000.snappy.parquet.crc" type="PLAIN_TEXT" />
       <mapping ext="parquet" type="PLAIN_TEXT" />
     </extensionMap>
