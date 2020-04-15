@@ -14,6 +14,10 @@
           <option name="url" value="https://RichardMarto@bitbucket.org/tiucs/ves-param-seletivo.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://bitbucket.org" />
+          <option name="userName" value="RichardMarto" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/Developer/Dell/Unicid/ves" />
